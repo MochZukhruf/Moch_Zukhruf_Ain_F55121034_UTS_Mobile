@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data_name">
+        <item>The Scream</item>
+        <item>The Starry Night</item>
+        <item>Mona Lisa</item>
+        <item>Nebkheperure Tutankhamun</item>
+        <item>Coming Soon</item>
+
+    </string-array>
+    <string-array name="data_description">
+        <item>Der Schrei der Natur</item>
+        <item>Van Gogh - 1889</item>
+        <item>Da vinci - 1517</item>
+        <item>Firaun - 1922</item>
+        <item>Still In Process</item>
+
+    </string-array>
+    <string-array name="data_photo">
+        <item>@drawable/scream</item>
+        <item>@drawable/night</item>
+        <item>@drawable/mona</item>
+        <item>@drawable/tutanchamu</item>
+        <item>@drawable/cum</item>
+
+    </string-array>
+</resources>
